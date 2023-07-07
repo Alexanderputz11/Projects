@@ -1,4 +1,4 @@
-This capstone provides an in depth analysis of Dementia Predictors from a data set that was found on [ Kaggle: https://www.kaggle.com/holmjason2/videogamedata](https://www.kaggle.com/datasets/shashwatwork/dementia-prediction-dataset)
+This capstone provides an in depth analysis of Dementia Predictors from a data set that was found on (https://www.kaggle.com/datasets/shashwatwork/dementia-prediction-dataset)
 
 The analysis was done using Colab Notebook, and then made into a PowerPoint presentation in order to be presented.
 
